@@ -1,0 +1,3 @@
+export const key = "46805304fe4fd45856574f8e458c6e650bd0cf54372a21f4";
+export const secret =
+    "7c301b6a7146346102bbec26a682bcfe64373752f7afaa59e862ca83f990ba61";

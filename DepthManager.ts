@@ -1,5 +1,3 @@
-import axios from "axios";
-
 export class DepthManager {
     private market: string;
     private bids: {
@@ -15,7 +13,7 @@ export class DepthManager {
 
         setInterval(() => {
             this.pollMarket();
-        }, 3000);
+        }, 2500);
     }
 
     async pollMarket() {
