@@ -1,4 +1,4 @@
-# Arbitrage crypto trading bot for illiquid markets
+## Arbitrage crypto trading bot for il-liquid markets
 
 To install dependencies:
 
